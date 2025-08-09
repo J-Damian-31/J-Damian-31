@@ -1,14 +1,13 @@
 # Hello, I'm Damian
 <a href="https://linkedin.com](https://www.linkedin.com/in/damian-james-94a959161/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+## Introduction
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Motivated and detail-oriented professional with a strong background in security operations and a growing expertise in cybersecurity. Skilled at identifying vulnerabilities, mitigating risks, and applying analytical problem-solving to safeguard systems and data. Passionate about leveraging technical knowledge and security principles to protect organizational assets and support long-term security goals.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To obtain a cybersecurity role where I can apply my security operations background, analytical skills, and commitment to continuous learning to protect organizational systems and data while advancing my expertise in threat detection, prevention, and response.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
